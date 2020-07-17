@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      "file-droppa@1.8.0",
+      "/Users/jatinthapar/Documents/Projects/qr-code/angular8"
+    ]
+  ],
+  "_from": "file-droppa@1.8.0",
+  "_id": "file-droppa@1.8.0",
+  "_inBundle": false,
+  "_integrity": "sha512-qZu8PQ0Y3/u7RVwwNh4j1csIEOs9JpJYyLMnVuMcubTWWqOdFC/Y/cmzCZEeKWldMu5VDkVdoxgSajgsfUhuRg==",
+  "_location": "/file-droppa",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "file-droppa@1.8.0",
+    "name": "file-droppa",
+    "escapedName": "file-droppa",
+    "rawSpec": "1.8.0",
+    "saveSpec": null,
+    "fetchSpec": "1.8.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/file-droppa/-/file-droppa-1.8.0.tgz",
+  "_spec": "1.8.0",
+  "_where": "/Users/jatinthapar/Documents/Projects/qr-code/angular8",
+  "author": {
+    "name": "Pavlo Tkach",
+    "email": "work.pashtet@gmail.com",
+    "url": "http://github.com/ptkach"
+  },
+  "bugs": {
+    "url": "https://github.com/ptkach/fileDroppa/issues"
+  },
+  "contributors": [
+    {
+      "name": "Oleksandr Antyneskul",
+      "email": "antyneskul@gmail.com",
+      "url": "https://github.com/Antyneskul"
+    }
+  ],
+  "dependencies": {},
+  "description": "Angular2 (ng2) Files dropable area plus list of files",
+  "devDependencies": {
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "core-js": "^2.4.1",
+    "jasmine-core": "~2.6.2",
+    "karma": "~1.7.0",
+    "karma-chrome-launcher": "~2.1.1",
+    "karma-jasmine": "~1.1.0",
+    "rxjs": "^5.1.0",
+    "tslint": "~5.3.2",
+    "typescript": "~2.3.3",
+    "zone.js": "^0.8.4"
+  },
+  "homepage": "https://github.com/ptkach/fileDroppa#readme",
+  "keywords": [
+    "Angular",
+    "Files",
+    "Drop"
+  ],
+  "license": "MIT",
+  "main": "bundles/file-droppa.umd.js",
+  "name": "file-droppa",
+  "peerDependencies": {
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ptkach/fileDroppa.git"
+  },
+  "scripts": {
+    "build": "ng build",
+    "buildlib": "ngm build -p 'lib' --clean",
+    "e2e": "ng e2e",
+    "lint": "ng lint",
+    "ng": "ng",
+    "start": "ng serve",
+    "test": "ng test"
+  },
+  "typings": "index.d.ts",
+  "version": "1.8.0"
+}
